@@ -1,4 +1,4 @@
-# Hi there, I'm [Alex Wang]! 👋
+# Hi there, I'm Alex Wang! 👋
 
 ### 🚀 About Me
 I'm a developer with a passion for creating innovative solutions and an enthusiast in [Robotics and Engineering as a whole].
@@ -16,6 +16,6 @@ I'm a developer with a passion for creating innovative solutions and an enthusia
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ### 📫 Get in Touch
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/YourProfile)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-wang-b23097314/)
 - 📧 Email: [awang70@stuy.edu](mailto:awang70@stuy.edu)
 
