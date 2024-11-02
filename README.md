@@ -12,7 +12,7 @@ I'm a Sophomore at Stuyvesant Highschool, with a passion for creating innovative
 <!-- Add more as needed -->
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-wanger&show_icons=true&theme=radical)
 
 ### 📫 Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-wang-b23097314/)
