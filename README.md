@@ -1,4 +1,4 @@
-# Hi there, I'm Alex Wang! 👋
+# Hi there, I'm Alex Wang! I'm a Sophomore at Stuyvesant Highschool👋
 
 ### 🚀 About Me
 I'm a developer with a passion for creating innovative solutions and an enthusiast in [Robotics and Engineering as a whole].
