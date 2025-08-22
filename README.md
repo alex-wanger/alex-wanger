@@ -14,7 +14,7 @@ class AlexWang:
     def __init__(self):
         self.location = "New York City 🗽"
         self.school = "Stuyvesant High School"
-        self.grade = "Junior (Class of 2026)"
+        self.grade = "Junior (Class of 2027)"
         self.role = "VP of Software Engineering @ StuyPulse"
         self.interests = [
             "Artificial Intelligence 🤖",
@@ -22,10 +22,8 @@ class AlexWang:
             "Embedded Systems 🔧",
             "Robotics Engineering ⚙️"
         ]
-        self.current_focus = "AI/ML + Embedded Systems Integration"
+        self.current_focus = "Integrating Embedded Systems with ML"
     
-    def get_passion(self):
-        return "Building intelligent systems that bridge the digital and physical worlds"
 ```
 
 ---
