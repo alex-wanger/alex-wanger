@@ -1,7 +1,7 @@
 <div align="center">
   
 # Alex Wang
-### `Software Engineer • Embedded Systems• ML`
+### `Software Engineer • Embedded Systems • ML`
 
 </div>
 
