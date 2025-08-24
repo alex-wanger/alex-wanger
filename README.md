@@ -1,16 +1,10 @@
 <div align="center">
   
-# Alex Wang
-### `Software Engineer • Embedded Systems • ML`
 
-</div>
-
----
-
-## 🎯 About Me
+## About Me
 
 ```python
-class AlexWang:
+class alexWang:
     def __init__(self):
         self.location = "New York City 🗽"
         self.school = "Stuyvesant High School"
@@ -22,8 +16,6 @@ class AlexWang:
             "Embedded Systems 🔧",
             "Robotics Engineering ⚙️"
         ]
-        self.current_focus = "Integrating Embedded Systems with ML"
-    
 ```
 
 ---
@@ -71,7 +63,7 @@ class AlexWang:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-wang-b23097314/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexwang94834@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://awanger.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://awanger.vercel.app/)
 
 </div>
 
