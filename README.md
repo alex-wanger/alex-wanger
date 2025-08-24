@@ -1,10 +1,7 @@
-<div align="center">
-  
-
 ## About Me
 
 ```python
-class alexWang:
+class AlexWang:
     def __init__(self):
         self.location = "New York City 🗽"
         self.school = "Stuyvesant High School"
@@ -16,6 +13,8 @@ class alexWang:
             "Embedded Systems 🔧",
             "Robotics Engineering ⚙️"
         ]
+        self.current_focus = "Integrating Embedded Systems with ML"
+    
 ```
 
 ---
