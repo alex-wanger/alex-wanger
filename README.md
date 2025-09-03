@@ -13,7 +13,6 @@ class AlexWang:
             "Embedded Systems 🔧",
             "Robotics Engineering ⚙️"
         ]
-        self.current_focus = "Integrating Embedded Systems with ML"
     
 ```
 
