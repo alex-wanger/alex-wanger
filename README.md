@@ -32,7 +32,7 @@ class AlexWang:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -51,7 +51,7 @@ class AlexWang:
 ---
 
 
-## 📫 Contact Me!
+## Contact Me!
 
 <div align="center">
 
