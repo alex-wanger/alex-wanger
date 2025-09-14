@@ -1,38 +1,19 @@
 ## About Me
 
-```python
-class AlexWang:
-    def __init__(self):
-        self.location = "New York City 🗽"
-        self.school = "Stuyvesant High School"
-        self.grade = "Junior (Class of 2027)"
-        self.role = "VP of Software Engineering @ StuyPulse"
-        self.interests = [
-            "Artificial Intelligence 🤖",
-            "Machine Learning 📊",
-            "Embedded Systems 🔧",
-            "Robotics Engineering ⚙️"
-        ]
-    
+```javascript
+ const alex = {
+    languages: [C, Java, Python, HTML, CSS, JavaScript, Shell]
+    frameworks:  [React, Node, Tailwind]
+    interests: [Robotics, Embedded Systems, Systems, Linux, Machine Learning]
+    hobbies: [Basketball, Weightlifting, Gaming]
+}
 ```
+ 
 
----
-
-
-<div align="center">
-
-### Languages/Frameworks
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)](#)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 ---
-
-## GitHub Analytics
 
 <div align="center">
   
@@ -48,10 +29,10 @@ class AlexWang:
 
 </div>
 
----
+ 
 
 
-## Contact Me!
+ 
 
 <div align="center">
 
@@ -59,7 +40,6 @@ class AlexWang:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexwang94834@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://awanger.vercel.app/)
 
-</div>
+ 
 
----
 
