@@ -1,7 +1,7 @@
 ## About Me
 
 ```javascript
- const alex = {
+const alex = {
     languages: [C, Java, Python, HTML, CSS, JavaScript, Shell]
     frameworks:  [React, Node, Tailwind]
     interests: [Robotics, Embedded Systems, Systems, Linux, Machine Learning]
