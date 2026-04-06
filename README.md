@@ -5,7 +5,7 @@ const alex = {
     languages: [C, Java, Python, HTML, CSS, JavaScript, Shell]
     frameworks:  [React, Node, Tailwind]
     interests: [Robotics, Embedded Systems, Systems, Linux, Machine Learning]
-    hobbies: [Basketball, Weightlifting, Gaming]
+    hobbies: [Cooking, Basketball, Weightlifting, Gaming]
 }
 ```
  
