@@ -2,7 +2,7 @@
 
 ```javascript
 const alex = {
-    languages: [C, Java, Python, HTML, CSS, JavaScript, Shell]
+    languages: [C, Java, Python, HTML, CSS, JavaScript, Go]
     frameworks:  [React, Node, Tailwind]
     interests: [Robotics, Embedded Systems, Systems, Linux, Machine Learning]
     hobbies: [Cooking, Basketball, Weightlifting, Gaming]
