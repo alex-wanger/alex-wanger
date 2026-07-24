@@ -1,12 +1,13 @@
 ## About Me
 
 ```javascript
-const alex = {
-    languages: [C, Java, Python, HTML, CSS, JavaScript, Go]
-    frameworks:  [React, Node, Tailwind]
-    interests: [Robotics, Embedded Systems, Systems, Linux, Machine Learning]
+const alex = 
+    languages: [C, Java, Python, HTML, CSS, JavaScript, Go, TypeScript]
+    frameworks:  [React, Node, Tailwind, Next]
+    interests: [Systems, Robotics, Linux, Machine Learning]
     hobbies: [Cooking, Basketball, Weightlifting, Gaming]
 }
+// Hi, I'm Alex, an SWE Intern @ Vantage and President of StuyPulse Robotics
 ```
  
 
@@ -16,10 +17,6 @@ const alex = {
 ---
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-wanger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-wanger&layout=compact&theme=tokyonight&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D"/>
 
 </div>
 
