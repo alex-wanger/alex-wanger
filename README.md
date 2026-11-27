@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003D5C,100:00D9FF&height=160&section=header&text=Alex%20Wang&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=SWE%20Intern%20%40%20Vantage%20%C2%B7%20President%20of%20StuyPulse%20Robotics&descAlignY=55&descSize=14" alt="Alex Wang" />
+# Alex Wang
+
+SWE Intern at [Vantage](https://www.vantage.sh) · President of [StuyPulse Robotics](https://stuypulse.com)
 
 ### Languages
 
@@ -20,14 +22,14 @@
 
 ### Interests & Hobbies
 
-![Systems](https://img.shields.io/badge/Systems-0D1117?style=flat-square&color=30363D)
-![Robotics](https://img.shields.io/badge/Robotics-0D1117?style=flat-square&color=00D9FF)
+![Systems](https://img.shields.io/badge/Systems-30363D?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-00D9FF?style=flat-square&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square&color=FF6B6B)
-![Cooking](https://img.shields.io/badge/Cooking-0D1117?style=flat-square&color=FF9F43)
-![Basketball](https://img.shields.io/badge/Basketball-0D1117?style=flat-square&color=E67E22)
-![Weightlifting](https://img.shields.io/badge/Weightlifting-0D1117?style=flat-square&color=9B59B6)
-![Gaming](https://img.shields.io/badge/Gaming-0D1117?style=flat-square&color=2ECC71)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square)
+![Cooking](https://img.shields.io/badge/Cooking-FF9F43?style=flat-square)
+![Basketball](https://img.shields.io/badge/Basketball-E67E22?style=flat-square)
+![Weightlifting](https://img.shields.io/badge/Weightlifting-9B59B6?style=flat-square)
+![Gaming](https://img.shields.io/badge/Gaming-2ECC71?style=flat-square)
 
 ```js
 const alex = {
@@ -41,5 +43,3 @@ const alex = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alex-wanger&theme=tokyonight&border_radius=20&background=0D1117&stroke=30363D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:003D5C,100:0D1117&height=100&section=footer" alt="" />
