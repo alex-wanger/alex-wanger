@@ -1,6 +1,6 @@
-# hey, i'm alex
+# Alex Wang
 
-swe intern @ [vantage](https://www.vantage.sh) · president of [stuypulse robotics](https://stuypulse.com)
+SWE Intern at [Vantage](https://www.vantage.sh) · President of [StuyPulse Robotics](https://stuypulse.com)
 
 ```js
 const alex = {
